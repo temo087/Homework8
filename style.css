@@ -157,7 +157,6 @@
     justify-content: center;
     width: 315px;
     height: 56px;
-    flex-shrink: 0;
     border-radius: 12px;
     background: var(--blue-95-white, linear-gradient(0deg, rgba(255, 255, 255, 0.95) 0%, rgba(255, 255, 255, 0.95) 100%), #1125D6);
 }
