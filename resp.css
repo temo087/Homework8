@@ -2,9 +2,8 @@
 {
     body{
         background: var(--Very-Light-blue, #ECF2FF);
-        display: flex;
-        justify-content: center;
-        align-items: center;
+        display: grid;
+        grid-template-columns: auto;
     }
     .square{     
         justify-content: center;
@@ -15,6 +14,7 @@
         display:flex;
         background-color: white;
         width: 408px;
+        border-radius: 32px 0 0 32px;
     }
     .box1{
         width: 368px;
